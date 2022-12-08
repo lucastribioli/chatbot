@@ -22,3 +22,13 @@ pip install -r utils/requirements.txt
 > * **Keras** — Por último, e de extrema importância, usamos o Keras para a estrutura de aprendizado profundo, essa lib poderosíssima é uma das principais APIs de redes neurais de alto nível.
 
 ## Como executar
+Dentro da pasta app:
+
+Para treinar o modelo
+```
+python train.py
+```
+Para executar o GUI
+```
+python bot.py
+```
